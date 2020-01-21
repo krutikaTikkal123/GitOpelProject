@@ -3,4 +3,9 @@ Hello World!!!
 Welcome to Git.......
 
 
-Change for feature - login
+Change For Feature - Login
+
+Change to fix - Bug1
+
+Change from remote server by my teammate
+
