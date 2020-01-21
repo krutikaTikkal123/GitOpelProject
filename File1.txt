@@ -3,4 +3,8 @@ Hello World!!!
 Welcome to Git.......
 
 
-Change for feature - login
+Change for feature -> login
+
+Change for feature ->logout
+change to fix bug1
+change to fix bug2
