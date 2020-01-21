@@ -4,6 +4,9 @@ for updating adding item
 
 
 
-change the file to check push to remote server
+change - the file to check push to remote server
 
-change push updation on remote server
+change - push updation on remote server
+change - made by teammate on remote server 
+
+
